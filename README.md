@@ -1,7 +1,12 @@
 # Randomizer-Tool
 
-<img align="right" width="30%" src="https://github.com/user-attachments/assets/a5605124-064c-4f7d-b2d5-d61d97572d5f">
-
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/a5605124-064c-4f7d-b2d5-d61d97572d5f" style="width: 200px; display: block; margin: 0 auto;">
+  <div>
+    <!-- Your text goes here -->
+    <p>Your text here</p>
+  </div>
+</div>
 
 
 ### About Our Project:
