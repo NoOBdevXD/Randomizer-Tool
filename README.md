@@ -3,6 +3,8 @@
 
 # Randomizer-Tool
 
+- [Download](https://github.com/NoOBdevXD/Randomizer-Tool/releases/tag/RandomizerTool)
+
 ### Important Notice:
 - This creates a random ID and updates or adds an existing ID.
 These are the names: array, attr, bool, color, dimen, string, fraction, integer, plurals, style, id, path.
