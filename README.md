@@ -1,12 +1,9 @@
 # Randomizer-Tool
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/a5605124-064c-4f7d-b2d5-d61d97572d5f" style="width: 250px; height: auto;">
-  <div style="text-align: center; margin-top: 10px;">
-    <p>Your text goes here</p>
-  </div>
+<div style="width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+  <img src="https://github.com/user-attachments/assets/a5605124-064c-4f7d-b2d5-d61d97572d5f" style="width: 250px; height: auto; margin-bottom: 10px;">
+  <p>Your text goes here</p>
 </div>
-
 
 ### About Our Project:
 - Our Aim Is To Develop Amazing Projects For Miui & HyperOS!
