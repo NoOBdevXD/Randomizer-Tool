@@ -10,20 +10,8 @@
 - Join Our Support Groups For Better Experience, Proper Guides & Faster Updates
 - Subscribe Our YouTube Channel For Better Learning Stuffs
 
-### Project Contributer(s):
-- [Souta](https://t.me/SoutaEver)
-- [DevilNoobIN](https://t.me/DevilNoobIN)
-
 ### Join Our Official Channel(s)
-- [MiuiAOSP](https://t.me/MiuiAOSP)
+- [Orca Labs](https://t.me/OrcaOnSteroids)
 ### Our Group Link(s):
-- [MiuiAOSP_Discussion](https://t.me/MiuiAOSP_Discussions)
+- [Orca Discussion](https://t.me/OrcaDiscussion)
 
-### How To Download Our Stuff?
-- Check Out Our [Releases](https://github.com/MiuiAOSP/MiuiAOSP/releases/tag/HyperOsAboutDevice) Pages For More Information!
-
-<!-- ############################# -->
-<!-- Start Segment 03 Of README.MD -->
-<!-- ############################# -->
-
-###  Thanks For Trying Our Stuff!
