@@ -2,14 +2,11 @@
 
 # Randomizer-Tool
 
-### About Our Project:
-- Our Aim Is To Develop Amazing Projects For Miui & HyperOS!
-- We Make AOSP Stuffs Like Layouts, etc. For Miui & HyperOS!
-
 ### Important Notice:
-- Please Read All Project Changelogs & Features!
-- Join Our Support Groups For Better Experience, Proper Guides & Faster Updates
-- Subscribe Our YouTube Channel For Better Learning Stuffs
+- This creates a random ID and updates or adds an existing ID.
+These are the names: array, attr, bool, color, dimen, string, fraction, integer, plurals, style, id, path.
+- Ensure that Output.xml exists at sdcard/Output.xml.
+- All entries must be present in Output.xml; otherwise, the process will fail.
 
 ### Join Our Official Channel(s)
 - [Orca Labs](https://t.me/OrcaOnSteroids)
